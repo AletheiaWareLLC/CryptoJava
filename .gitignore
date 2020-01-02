@@ -1,0 +1,4 @@
+*.class
+*.jar
+*Proto.java
+out/*
